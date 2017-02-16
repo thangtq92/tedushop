@@ -16,9 +16,9 @@ namespace TeduShop.Service
 
         IEnumerable<PostCategory> GetAll();
 
-        IEnumerable<PostCategory> GetAllByParentId(int parentId);
+        //IEnumerable<PostCategory> GetAllByParentId(int parentId);
 
-        IEnumerable<PostCategory> GetById(int id);
+        //IEnumerable<PostCategory> GetById(int id);
     }
 
     public class PostCategoryService : IPostCategoryService
@@ -60,10 +60,10 @@ namespace TeduShop.Service
             throw new NotImplementedException();
         }
 
-        public PostCategory GetById(int id)
-        {
-            return _postCategoryRepository.GetSingleById(id);
-        }
+        //public IEnumerable<PostCategory> GetById(int id)
+        //{
+        //    //return _postCategoryRepository.GetSingleById(id);
+        //}
 
         public void SaveChanges()
         {
