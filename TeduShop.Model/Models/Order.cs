@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using TeduShop.Model.Abstract;
@@ -33,10 +32,9 @@ namespace TeduShop.Model.Models
         [MaxLength(256)]
         public string CustomerMessage { get; set; }
 
-        public int ProductID { get; set; }
-
-        [ForeignKey("ProductID")]
-        public virtual Product Product { get; set; }
+        //public int ProductID { get; set; }
+        //[ForeignKey("ProductID")]
+        //public virtual Product Product { get; set; }
 
         [Required]
         [MaxLength(256)]

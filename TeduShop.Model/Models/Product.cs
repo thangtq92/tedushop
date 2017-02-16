@@ -1,7 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Xml.Linq;
 using TeduShop.Model.Abstract;
 
 namespace TeduShop.Model.Models
@@ -29,7 +28,8 @@ namespace TeduShop.Model.Models
         [MaxLength(256)]
         public string Image { get; set; }
 
-        public XElement MoreImages { get; set; }
+        [Column(TypeName = "xml")]
+        public string MoreImages { get; set; }
 
         [MaxLength(500)]
         public string Description { get; set; }
@@ -44,7 +44,7 @@ namespace TeduShop.Model.Models
         public bool? HotFlag { get; set; }
         public int? ViewCount { get; set; }
 
-        public virtual IEnumerable<Order> Orders { get; set; }
-
+        public virtual IEnumerable<OrderDetail> OrderDetails { get; set; }
+        public virtual IEnumerable<ProductTag> ProductTags { get; set; }
     }
 }
