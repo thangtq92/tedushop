@@ -1,0 +1,8 @@
+E:\SOURCODE\CORE BKPOST\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+E:\SOURCODE\CORE BKPOST\TeduShop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+E:\SOURCODE\CORE BKPOST\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+E:\SOURCODE\CORE BKPOST\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
