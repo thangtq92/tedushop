@@ -16,13 +16,9 @@ namespace TeduShop.Service
 
         IEnumerable<PostCategory> GetAll();
 
-        IEnumerable<PostCategory> GetAllPaging(int page, int pageSize, out int totalRow);
+        IEnumerable<PostCategory> GetAllByParentId(int parentId);
 
-        PostCategory GetById(int id);
-
-        IEnumerable<PostCategory> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow);
-
-        void SaveChanges();
+        IEnumerable<PostCategory> GetById(int id);
     }
 
     public class PostCategoryService : IPostCategoryService

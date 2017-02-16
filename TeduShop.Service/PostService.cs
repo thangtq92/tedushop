@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using TeduShop.Data.Infrastructure;
 using TeduShop.Data.Repositories;
 using TeduShop.Model.Models;
@@ -15,6 +14,8 @@ namespace TeduShop.Service
         void Delete(int id);
 
         IEnumerable<Post> GetAll();
+
+        IEnumerable<Post> GetAllByCategoryPaging(int categoryId, int page, int pageSize, out int totalRow);
 
         IEnumerable<Post> GetAllPaging(int page, int pageSize, out int totalRow);
 
@@ -51,17 +52,21 @@ namespace TeduShop.Service
             return _postRepository.GetAll(new string[] { "PostCategory" });
         }
 
+        public IEnumerable<Post> GetAllByCategoryPaging(int categoryId, int page, int pageSize,
+          out int totalRow)
+        {
+            return _postRepository.GetMultiPaging(x => (bool)x.Status && x.CategoryID == categoryId, out totalRow, page, pageSize, new string[] { "PostCategory" });
+        }
+
         public IEnumerable<Post> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow)
         {
             //TODO: Select all post by tag
-            //return _postRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
-            throw new NotImplementedException();
+            return _postRepository.GetAllByTag(tag, page, pageSize, out totalRow);
         }
 
         public IEnumerable<Post> GetAllPaging(int page, int pageSize, out int totalRow)
         {
-            //return _postRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
-            throw new NotImplementedException();
+            return _postRepository.GetMultiPaging(x => (bool)x.Status, out totalRow, page, pageSize);
         }
 
         public Post GetById(int id)
