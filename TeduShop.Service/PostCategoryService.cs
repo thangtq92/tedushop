@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using TeduShop.Data.Infrastructure;
 using TeduShop.Data.Repositories;
 using TeduShop.Model.Models;
@@ -16,9 +15,11 @@ namespace TeduShop.Service
 
         IEnumerable<PostCategory> GetAll();
 
-        //IEnumerable<PostCategory> GetAllByParentId(int parentId);
+        IEnumerable<PostCategory> GetAllByParentId(int parentId);
 
-        //IEnumerable<PostCategory> GetById(int id);
+        PostCategory GetById(int id);
+
+        void Save();
     }
 
     public class PostCategoryService : IPostCategoryService
@@ -44,28 +45,20 @@ namespace TeduShop.Service
 
         public IEnumerable<PostCategory> GetAll()
         {
-            return _postCategoryRepository.GetAll(new string[] { "PostCategoryCategory" });
+            return _postCategoryRepository.GetAll();
         }
 
-        public IEnumerable<PostCategory> GetAllByTagPaging(string tag, int page, int pageSize, out int totalRow)
+        public IEnumerable<PostCategory> GetAllByParentId(int parentId)
         {
-            //TODO: Select all postCategory by tag
-            //return _postCategoryRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
-            throw new NotImplementedException();
+            return _postCategoryRepository.GetMulti(x => (bool)x.Status && x.ParentID == parentId);
         }
 
-        public IEnumerable<PostCategory> GetAllPaging(int page, int pageSize, out int totalRow)
+        public PostCategory GetById(int id)
         {
-            //return _postCategoryRepository.GetMultiPaging(x => x.Status, out totalRow, page, pageSize);
-            throw new NotImplementedException();
+            return _postCategoryRepository.GetSingleById(id);
         }
 
-        //public IEnumerable<PostCategory> GetById(int id)
-        //{
-        //    //return _postCategoryRepository.GetSingleById(id);
-        //}
-
-        public void SaveChanges()
+        public void Save()
         {
             _unitOfWork.Commit();
         }

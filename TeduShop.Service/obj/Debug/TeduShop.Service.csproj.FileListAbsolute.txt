@@ -22,3 +22,4 @@ E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\bin\Debug\EntityFramework.xml
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+D:\SOURCECODE\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache

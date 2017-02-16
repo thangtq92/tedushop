@@ -98,3 +98,4 @@ E:\SOURCODE\CORE BKPOST\Git\TeduShop.UnitTest\bin\Debug\System.Web.WebPages.Depl
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.dll
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.pdb
+D:\SOURCECODE\Git\TeduShop.UnitTest\obj\Debug\TeduShop.UnitTest.csprojResolveAssemblyReference.cache

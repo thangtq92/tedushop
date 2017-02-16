@@ -114,3 +114,4 @@ E:\SOURCODE\CORE BKPOST\Git\TeduShop.Web\bin\Antlr3.Runtime.pdb
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+D:\SOURCECODE\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
