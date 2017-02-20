@@ -8,6 +8,5 @@ E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 D:\SOURCECODE\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 D:\SOURCECODE\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
-D:\SOURCECODE\Git\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
 D:\SOURCECODE\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 D:\SOURCECODE\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
