@@ -13,5 +13,6 @@ D:\SOURCECODE\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 D:\SOURCECODE\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Common\bin\Debug\TeduShop.Common.dll
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Common\obj\Debug\TeduShop.Common.csprojResolveAssemblyReference.cache
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
