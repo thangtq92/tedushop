@@ -58,3 +58,4 @@ C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migra
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.AdErrorTable.resources
