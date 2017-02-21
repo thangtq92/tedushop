@@ -38,7 +38,7 @@ D:\SOURCECODE\Git\TeduShop.Data\bin\Debug\TeduShop.Model.pdb
 D:\SOURCECODE\Git\TeduShop.Data\bin\Debug\EntityFramework.xml
 D:\SOURCECODE\Git\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csprojResolveAssemblyReference.cache
-D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDb.resources
-D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
 D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
+D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDataBase.resources
+D:\SOURCECODE\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
