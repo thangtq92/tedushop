@@ -23,3 +23,16 @@ E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojRe
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 E:\SOURCODE\CORE BKPOST\Git\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
 D:\SOURCECODE\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\EntityFramework.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\bin\Debug\EntityFramework.xml
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
