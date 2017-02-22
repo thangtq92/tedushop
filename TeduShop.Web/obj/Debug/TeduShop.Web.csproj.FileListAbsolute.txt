@@ -173,3 +173,14 @@ C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Antlr3.Runtime.pdb
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\obj\Debug\TeduShop.Web.csprojResolveAssemblyReference.cache
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\obj\Debug\TeduShop.Web.dll
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\obj\Debug\TeduShop.Web.pdb
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Microsoft.Owin.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Owin.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.xml
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Autofac.Integration.WebApi.xml
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Microsoft.Owin.xml
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
