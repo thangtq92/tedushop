@@ -61,7 +61,7 @@ C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.cspro
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.InitialDB.resources
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.AdErrorTable.resources
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.IntergrateAspnetIdentity.resources
+C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.Change.resources
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.GenerateResource.Cache
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.dll
 C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
-C:\Users\MyPC\Desktop\SourceCode\Git\TeduShop.Data\obj\Debug\TeduShop.Data.Migrations.Change.resources
